@@ -36,9 +36,9 @@ function Alarm() {
 
   return (
     <div>
-      <h3>
+      <h1 style={{ fontWeight: "bold" }}>
         Alarma con notificacion <hr />
-      </h3>
+      </h1>
       <input
         type="datetime-local"
         value={alarmTime}

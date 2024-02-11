@@ -1,8 +1,11 @@
-# React + Vite
+# Desarrollando una Alarma Interactiva con ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### Creando una Alarma en ReactJS implica desarrollar una aplicación web que utilice React para implementar una funcionalidad de alarma. Se emplearán componentes, estado y eventos de React para permitir al usuario configurar, activar y desactivar la alarma, ofreciendo una experiencia interactiva y práctica en la gestión del tiempo.
 
-Currently, two official plugins are available:
+### Para correr el proyecto solo basta ejecutar npm i
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    esto instalar todas las dependencias del proyecto, luego solo queda ejecutar el proyecto con npm run dev
+
+### Resultado final
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/alarma-con-notificacion.png)

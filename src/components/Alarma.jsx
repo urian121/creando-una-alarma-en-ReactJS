@@ -43,8 +43,8 @@ function Alarm() {
   };
 
   return (
-    <div>
-      <h2>Alarma con Sonido + Notificación</h2>
+    <div style={{ marginTop: "20px" }}>
+      <h1>Alarma con Sonido + Notificación</h1>
       <input
         type="datetime-local"
         value={alarmTime}
